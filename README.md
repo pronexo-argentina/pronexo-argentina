@@ -33,6 +33,7 @@
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,8 +50,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pronexo-argentina&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3A6&text_color=94A3B8&bg_color=0B1120" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronexo-argentina&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0B1120" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pronexo-argentina&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3A6&text_color=94A3B8&bg_color=0B1120&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronexo-argentina&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0B1120&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
